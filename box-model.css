@@ -1,19 +1,16 @@
-body{
-    color: #F3F4F6;
-}
-
 .daftar-siswa {
+    color: #F3F4F6;
     background-color: gainsboro;
+    text-transform: capitalize;
+    font-weight: 400;
+    font-family: sans-serif;
 }
 
-.daftar-siswa p:first-child {
-    background-color: #60A5FA;
+.daftar-siswa p {
+    margin: 0;
 }
 
-.daftar-siswa p:last-child {
-    background-color: #F87171;
-}
-
-.daftar-siswa p:hover {
+.siswa:hover {
     background-color: #E5E7EB;
+    color: #111827;
 }
