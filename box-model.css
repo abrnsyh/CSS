@@ -6,8 +6,9 @@
     font-family: sans-serif;
 }
 
-.daftar-siswa p {
+.siswa {
     margin: 0;
+    padding: 10px 15px;
 }
 
 .siswa:hover {
