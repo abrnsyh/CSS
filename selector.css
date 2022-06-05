@@ -2,14 +2,14 @@
     background-color: gainsboro;
 }
 
-.daftar-siswa p:first-child {
+.daftar-siswa .siswa:first-child {
     background-color: #60A5FA;
 }
 
-.daftar-siswa p:last-child {
+.daftar-siswa .siswa:last-child {
     background-color: #F87171;
 }
 
-.daftar-siswa p:hover {
+.daftar-siswa .siswa:hover {
     background-color: #E5E7EB;
 }
