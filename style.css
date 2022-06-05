@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+}
+
+div {
+    display: flex;
+    background-color: grey;
+    justify-content: center;
+}
+
+a{
+    text-transform: uppercase;
+    color: white;
+    text-decoration: none;
+    font-family: sans-serif;
+    padding: 15px 10px;
+}
